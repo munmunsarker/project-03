@@ -1,0 +1,70 @@
+.project-card{
+
+    border:0px;
+}
+.nav-img{
+    height: 50px;
+    width: 200px;
+}
+
+.nav-items{
+
+    margin-left:300px;
+}
+
+}
+.footer{
+
+    background-color:white;
+    border:0;
+}
+.catagories img{
+
+width:100px;
+}
+.head-section{
+background-color:#fff8dc;
+}
+ 
+
+h3.price{
+color:orangered;
+
+}
+.imagess{
+    height: 150px;
+    widows: 150px;
+}
+.title{
+color:orangered;
+text-shadow: 5px;
+
+}
+.btn-img{
+background-color:#7cfc00;
+align-items: center;
+border: 2px solid #7cfc00 ;
+border-radius: 5px;
+}
+.image-btnt{
+    height:30px;
+    width: 30px;
+}
+.upper-section{
+    background-color:#fceae8;
+}
+
+.img-height{
+    height:350px;
+    width: 300px;
+}
+b{ font-size: 40px;
+    margin-left:70px;
+    color:orangered;
+}
+.main-h1{
+    text-align: center;
+    text-decoration:underline;
+    text-decoration-color:blue;
+    color:red;
+}
